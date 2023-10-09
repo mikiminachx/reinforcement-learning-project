@@ -1,0 +1,9 @@
+Hyperparameters: param1=0.001, param2=0.1, Average Reward: 1800.420685624468
+Hyperparameters: param1=0.001, param2=0.2, Average Reward: 299.3418881898298
+Hyperparameters: param1=0.001, param2=0.3, Average Reward: 1124.0219843314464
+Hyperparameters: param1=0.01, param2=0.1, Average Reward: 1074.1407181393174
+Hyperparameters: param1=0.01, param2=0.2, Average Reward: 1800.420685624468
+Hyperparameters: param1=0.01, param2=0.3, Average Reward: 1099.2378723809968
+Hyperparameters: param1=0.1, param2=0.1, Average Reward: 3600.2719972258797
+Hyperparameters: param1=0.1, param2=0.2, Average Reward: 3248.956702534584
+Hyperparameters: param1=0.1, param2=0.3, Average Reward: 350.10760645648645
